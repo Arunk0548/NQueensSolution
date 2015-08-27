@@ -10,3 +10,22 @@ Enter size of chess board n by n: 8
 Output: Queens on (1,1),(7,2),(5,3),(8,4),(2,5),(4,6),(6,7),(3,8)   
 
 Note that n should be in the range 4 to 25 (inclusive).
+
+#To Run
+~~~
+javac SinqleQueenSolution.java
+java SinqleQueenSolution
+
+Enter the size of chess board N by N:
+8
+ 1  0  0  0  0  0  0  0
+ 0  0  0  0  0  0  1  0
+ 0  0  0  0  1  0  0  0
+ 0  0  0  0  0  0  0  1
+ 0  1  0  0  0  0  0  0
+ 0  0  0  1  0  0  0  0
+ 0  0  0  0  0  1  0  0
+ 0  0  1  0  0  0  0  0
+
+ Queens on : (1,1),(2,7),(3,5),(4,8),(5,2),(6,4),(7,6),(8,3)
+~~~
